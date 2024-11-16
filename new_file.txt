@@ -1,10 +1,11 @@
 Section 1
-	Siya was here!
+Siya was here!
 
 Section 2
-
-
-Section 3
-
+John made this change.
+>>>>>>> john
 
 Section 3
+
+Section 4
+>>>>>>> john
